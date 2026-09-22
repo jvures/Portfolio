@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url(Images/téléchargement\ \(28\).jpeg);
+    background-image: url(Images/pc.jpeg);
     background-repeat : no-repeat;
     background-size: cover;
     padding-left: 20px;
@@ -22,9 +22,8 @@ body{
 
     
 }
-html, body{
-    color: black;
-}
+
+
 
 header{
     color: white;
